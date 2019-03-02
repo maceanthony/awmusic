@@ -41,6 +41,6 @@ body {
    border: solid #f8f9fa
 }
 
-navbar.navbar-expand-lg.navbar-dark.bg-dark collapse.navbar-collapse nav-item nav-link {
+.fb-color-me {
 	color: blue;
 }
