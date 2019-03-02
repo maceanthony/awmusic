@@ -41,6 +41,6 @@ body {
    border: solid #f8f9fa
 }
 
-.fb-color-me {
+.nav-link.fb-color-me {
 	color: blue;
 }
